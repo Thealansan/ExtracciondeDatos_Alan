@@ -1,0 +1,240 @@
+,name,region,independence_year
+0,Aruba,Caribbean,
+1,Afghanistan,Southern and Central Asia,1919.0
+2,Angola,Central Africa,1975.0
+3,Anguilla,Caribbean,
+4,Albania,Southern Europe,1912.0
+5,Andorra,Southern Europe,1278.0
+6,Netherlands Antilles,Caribbean,
+7,united Arab Emirates,Middle East,1971.0
+8,Argentina,South America,1816.0
+9,Armenia,Middle East,1991.0
+10,American Samoa,Polynesia,
+11,Antarctica,Antarctica,
+12,French Southern territories,Antarctica,
+13,Antigua and Barbuda,Caribbean,1981.0
+14,Australia,Australia and New Zealand,1901.0
+15,Austria,Western Europe,1918.0
+16,Azerbaijan,Middle East,1991.0
+17,Burundi,Eastern Africa,1962.0
+18,Belgium,Western Europe,1830.0
+19,Benin,Western Africa,1960.0
+20,Burkina Faso,Western Africa,1960.0
+21,Bangladesh,Southern and Central Asia,1971.0
+22,Bulgaria,Eastern Europe,1908.0
+23,Bahrain,Middle East,1971.0
+24,Bahamas,Caribbean,1973.0
+25,Bosnia and Herzegovina,Southern Europe,1992.0
+26,Belarus,Eastern Europe,1991.0
+27,Belize,Central America,1981.0
+28,Bermuda,North America,
+29,Bolivia,South America,1825.0
+30,Brazil,South America,1822.0
+31,Barbados,Caribbean,1966.0
+32,Brunei,Southeast Asia,1984.0
+33,Bhutan,Southern and Central Asia,1910.0
+34,Bouvet Island,Antarctica,
+35,Botswana,Southern Africa,1966.0
+36,Central African Republic,Central Africa,1960.0
+37,Canada,North America,1867.0
+38,Cocos (Keeling) Islands,Australia and New Zealand,
+39,Switzerland,Western Europe,1499.0
+40,Chile,South America,1810.0
+41,China,Eastern Asia,-1523.0
+42,Cote dIvoire,Western Africa,1960.0
+43,Cameroon,Central Africa,1960.0
+44,"Congo, The Democratic Republic of the",Central Africa,1960.0
+45,Congo,Central Africa,1960.0
+46,Cook Islands,Polynesia,
+47,Colombia,South America,1810.0
+48,Comoros,Eastern Africa,1975.0
+49,Cape Verde,Western Africa,1975.0
+50,Costa Rica,Central America,1821.0
+51,Cuba,Caribbean,1902.0
+52,Christmas Island,Australia and New Zealand,
+53,Cayman Islands,Caribbean,
+54,Cyprus,Middle East,1960.0
+55,Czech Republic,Eastern Europe,1993.0
+56,Germany,Western Europe,1955.0
+57,Djibouti,Eastern Africa,1977.0
+58,Dominica,Caribbean,1978.0
+59,Denmark,Nordic Countries,800.0
+60,Dominican Republic,Caribbean,1844.0
+61,Algeria,Northern Africa,1962.0
+62,Ecuador,South America,1822.0
+63,Egypt,Northern Africa,1922.0
+64,Eritrea,Eastern Africa,1993.0
+65,Western Sahara,Northern Africa,
+66,Spain,Southern Europe,1492.0
+67,Estonia,Baltic Countries,1991.0
+68,Ethiopia,Eastern Africa,-1000.0
+69,Finland,Nordic Countries,1917.0
+70,Fiji Islands,Melanesia,1970.0
+71,Falkland Islands,South America,
+72,France,Western Europe,843.0
+73,Faroe Islands,Nordic Countries,
+74,"Micronesia, Federated States of",Micronesia,1990.0
+75,Gabon,Central Africa,1960.0
+76,united Kingdom,British Islands,1066.0
+77,Georgia,Middle East,1991.0
+78,Ghana,Western Africa,1957.0
+79,Gibraltar,Southern Europe,
+80,Guinea,Western Africa,1958.0
+81,Guadeloupe,Caribbean,
+82,Gambia,Western Africa,1965.0
+83,Guinea-Bissau,Western Africa,1974.0
+84,Equatorial Guinea,Central Africa,1968.0
+85,Greece,Southern Europe,1830.0
+86,Grenada,Caribbean,1974.0
+87,Greenland,North America,
+88,Guatemala,Central America,1821.0
+89,French Guiana,South America,
+90,Guam,Micronesia,
+91,Guyana,South America,1966.0
+92,Hong Kong,Eastern Asia,
+93,Heard Island and McDonald Islands,Antarctica,
+94,Honduras,Central America,1838.0
+95,Croatia,Southern Europe,1991.0
+96,Haiti,Caribbean,1804.0
+97,Hungary,Eastern Europe,1918.0
+98,Indonesia,Southeast Asia,1945.0
+99,India,Southern and Central Asia,1947.0
+100,British Indian Ocean Territory,Eastern Africa,
+101,Ireland,British Islands,1921.0
+102,Iran,Southern and Central Asia,1906.0
+103,Iraq,Middle East,1932.0
+104,Iceland,Nordic Countries,1944.0
+105,Israel,Middle East,1948.0
+106,Italy,Southern Europe,1861.0
+107,Jamaica,Caribbean,1962.0
+108,Jordan,Middle East,1946.0
+109,Japan,Eastern Asia,-660.0
+110,Kazakstan,Southern and Central Asia,1991.0
+111,Kenya,Eastern Africa,1963.0
+112,Kyrgyzstan,Southern and Central Asia,1991.0
+113,Cambodia,Southeast Asia,1953.0
+114,Kiribati,Micronesia,1979.0
+115,Saint Kitts and Nevis,Caribbean,1983.0
+116,South Korea,Eastern Asia,1948.0
+117,Kuwait,Middle East,1961.0
+118,Laos,Southeast Asia,1953.0
+119,Lebanon,Middle East,1941.0
+120,Liberia,Western Africa,1847.0
+121,Libyan Arab Jamahiriya,Northern Africa,1951.0
+122,Saint Lucia,Caribbean,1979.0
+123,Liechtenstein,Western Europe,1806.0
+124,Sri Lanka,Southern and Central Asia,1948.0
+125,Lesotho,Southern Africa,1966.0
+126,Lithuania,Baltic Countries,1991.0
+127,Luxembourg,Western Europe,1867.0
+128,Latvia,Baltic Countries,1991.0
+129,Macao,Eastern Asia,
+130,Morocco,Northern Africa,1956.0
+131,Monaco,Western Europe,1861.0
+132,Moldova,Eastern Europe,1991.0
+133,Madagascar,Eastern Africa,1960.0
+134,Maldives,Southern and Central Asia,1965.0
+135,Mexico,Central America,1810.0
+136,Marshall Islands,Micronesia,1990.0
+137,Macedonia,Southern Europe,1991.0
+138,Mali,Western Africa,1960.0
+139,Malta,Southern Europe,1964.0
+140,Myanmar,Southeast Asia,1948.0
+141,Mongolia,Eastern Asia,1921.0
+142,Northern Mariana Islands,Micronesia,
+143,Mozambique,Eastern Africa,1975.0
+144,Mauritania,Western Africa,1960.0
+145,Montserrat,Caribbean,
+146,Martinique,Caribbean,
+147,Mauritius,Eastern Africa,1968.0
+148,Malawi,Eastern Africa,1964.0
+149,Malaysia,Southeast Asia,1957.0
+150,Mayotte,Eastern Africa,
+151,Namibia,Southern Africa,1990.0
+152,New Caledonia,Melanesia,
+153,Niger,Western Africa,1960.0
+154,Norfolk Island,Australia and New Zealand,
+155,Nigeria,Western Africa,1960.0
+156,Nicaragua,Central America,1838.0
+157,Niue,Polynesia,
+158,Netherlands,Western Europe,1581.0
+159,Norway,Nordic Countries,1905.0
+160,Nepal,Southern and Central Asia,1769.0
+161,Nauru,Micronesia,1968.0
+162,New Zealand,Australia and New Zealand,1907.0
+163,Oman,Middle East,1951.0
+164,Pakistan,Southern and Central Asia,1947.0
+165,Panama,Central America,1903.0
+166,Pitcairn,Polynesia,
+167,Peru,South America,1821.0
+168,Philippines,Southeast Asia,1946.0
+169,Palau,Micronesia,1994.0
+170,Papua New Guinea,Melanesia,1975.0
+171,Poland,Eastern Europe,1918.0
+172,Puerto Rico,Caribbean,
+173,North Korea,Eastern Asia,1948.0
+174,Portugal,Southern Europe,1143.0
+175,Paraguay,South America,1811.0
+176,Palestine,Middle East,
+177,French Polynesia,Polynesia,
+178,Qatar,Middle East,1971.0
+179,Reunion,Eastern Africa,
+180,Romania,Eastern Europe,1878.0
+181,Russian Federation,Eastern Europe,1991.0
+182,Rwanda,Eastern Africa,1962.0
+183,Saudi Arabia,Middle East,1932.0
+184,Sudan,Northern Africa,1956.0
+185,Senegal,Western Africa,1960.0
+186,Singapore,Southeast Asia,1965.0
+187,South Georgia and the South Sandwich Islands,Antarctica,
+188,Saint Helena,Western Africa,
+189,Svalbard and Jan Mayen,Nordic Countries,
+190,Solomon Islands,Melanesia,1978.0
+191,Sierra Leone,Western Africa,1961.0
+192,El Salvador,Central America,1841.0
+193,San Marino,Southern Europe,885.0
+194,Somalia,Eastern Africa,1960.0
+195,Saint Pierre and Miquelon,North America,
+196,Sao Tome and Principe,Central Africa,1975.0
+197,Suriname,South America,1975.0
+198,Slovakia,Eastern Europe,1993.0
+199,Slovenia,Southern Europe,1991.0
+200,Sweden,Nordic Countries,836.0
+201,Swaziland,Southern Africa,1968.0
+202,Seychelles,Eastern Africa,1976.0
+203,Syria,Middle East,1941.0
+204,Turks and Caicos Islands,Caribbean,
+205,Chad,Central Africa,1960.0
+206,Togo,Western Africa,1960.0
+207,Thailand,Southeast Asia,1350.0
+208,Tajikistan,Southern and Central Asia,1991.0
+209,Tokelau,Polynesia,
+210,Turkmenistan,Southern and Central Asia,1991.0
+211,East Timor,Southeast Asia,
+212,Tonga,Polynesia,1970.0
+213,Trinidad and Tobago,Caribbean,1962.0
+214,Tunisia,Northern Africa,1956.0
+215,Turkey,Middle East,1923.0
+216,Tuvalu,Polynesia,1978.0
+217,Taiwan,Eastern Asia,1945.0
+218,Tanzania,Eastern Africa,1961.0
+219,uganda,Eastern Africa,1962.0
+220,ukraine,Eastern Europe,1991.0
+221,united States Minor Outlying Islands,Micronesia/Caribbean,
+222,uruguay,South America,1828.0
+223,united States,North America,1776.0
+224,uzbekistan,Southern and Central Asia,1991.0
+225,Holy See (Vatican City State),Southern Europe,1929.0
+226,Saint Vincent and the Grenadines,Caribbean,1979.0
+227,Venezuela,South America,1811.0
+228,"Virgin Islands, British",Caribbean,
+229,"Virgin Islands, u.S.",Caribbean,
+230,Vietnam,Southeast Asia,1945.0
+231,Vanuatu,Melanesia,1980.0
+232,Wallis and Futuna,Polynesia,
+233,Samoa,Polynesia,1962.0
+234,Yemen,Middle East,1918.0
+235,Yugoslavia,Southern Europe,1918.0
+236,South Africa,Southern Africa,1910.0
+237,Zambia,Eastern Africa,1964.0
+238,Zimbabwe,Eastern Africa,1980.0
